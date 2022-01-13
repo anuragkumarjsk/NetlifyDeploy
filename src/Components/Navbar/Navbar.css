@@ -1,0 +1,24 @@
+.nav_container {
+  top: 0px;
+  background-color: plum;
+}
+
+.nav_container ul {
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.nav_container li {
+  list-style: none;
+  text-decoration: none;
+  padding: 2rem;
+}
+/*# sourceMappingURL=Navbar.css.map */

@@ -1,0 +1,13 @@
+.about_container {
+  background-color: gray;
+  width: auto;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.about_container h1 {
+  color: orange;
+}
+/*# sourceMappingURL=About.css.map */

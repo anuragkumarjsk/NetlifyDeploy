@@ -1,0 +1,13 @@
+.home_container {
+  background-color: gray;
+  width: auto;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.home_container h1 {
+  color: orange;
+}
+/*# sourceMappingURL=Home.css.map */
